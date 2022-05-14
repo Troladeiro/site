@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["svg-close-sm-svg"],{e04a:function(e,o,s){"use strict";s.r(o);var n=s("ce21"),t=s.n(n),l=s("e497"),w=s.n(l),i=new t.a({id:"close-sm",use:"close-sm-usage",viewBox:"0 0 16 16",content:'<symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="close-sm"><path d="m12 4-8 8M4 4l8 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></symbol>'});w.a.add(i);o["default"]=i}}]);
+//# sourceMappingURL=svg-close-sm-svg.9050846c.js.map

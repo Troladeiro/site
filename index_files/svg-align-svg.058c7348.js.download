@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["svg-align-svg"],{"616f":function(n,e,o){"use strict";o.r(e);var i=o("ce21"),s=o.n(i),a=o("e497"),t=o.n(a),w=new s.a({id:"align",use:"align-usage",viewBox:"0 0 16 16",content:'<symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="align"><path d="M8 15V5.667M3 3.333h10M3.333 10.333 8 5.667l4.667 4.666" stroke="#000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></symbol>'});t.a.add(w);e["default"]=w}}]);
+//# sourceMappingURL=svg-align-svg.058c7348.js.map

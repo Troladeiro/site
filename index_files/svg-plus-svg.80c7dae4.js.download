@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["svg-plus-svg"],{eb38:function(e,o,s){"use strict";s.r(o);var n=s("ce21"),t=s.n(n),w=s("e497"),i=s.n(w),l=new t.a({id:"plus",use:"plus-usage",viewBox:"0 0 16 16",content:'<symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="plus"><path d="M8 4v8M4 8h8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></symbol>'});i.a.add(l);o["default"]=l}}]);
+//# sourceMappingURL=svg-plus-svg.80c7dae4.js.map
