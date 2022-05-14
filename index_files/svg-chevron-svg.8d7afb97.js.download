@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["svg-chevron-svg"],{"079d":function(o,e,n){"use strict";n.r(e);var r=n("ce21"),s=n.n(r),t=n("e497"),w=n.n(t),i=new s.a({id:"chevron",use:"chevron-usage",viewBox:"0 0 10 6",content:'<symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 6" id="chevron"><path d="M9 5 5 1 1 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></symbol>'});w.a.add(i);e["default"]=i}}]);
-//# sourceMappingURL=svg-chevron-svg.8d7afb97.js.map
